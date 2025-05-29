@@ -44,6 +44,7 @@ By exploring this repository, you will:
    git clone <repository-url>
    cd Feature_Engineering
 ``
+
 2.**Set Up the Environment:**
 
 Install necessary Python libraries:
@@ -51,6 +52,7 @@ Install necessary Python libraries:
 pip install -r requirements.txt
 
 ```
+
 3. **Launch Jupyter Notebook:**
 ```bash
 jupyter notebook
