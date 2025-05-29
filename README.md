@@ -1,4 +1,4 @@
-# Feature Engineering Exercises Repository 🚀
+# 📊Feature Engineering Exercises Repository 🚀
 
 Welcome to the **Feature Engineering Exercises** repository! 🎉 This collection of notebooks is designed to enhance your understanding of various feature engineering techniques, a cornerstone of machine learning workflows.
 
