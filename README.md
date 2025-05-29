@@ -43,3 +43,29 @@ By exploring this repository, you will:
    ```bash
    git clone <repository-url>
    cd Feature_Engineering
+``
+2.**Set Up the Environment:**
+
+Install necessary Python libraries:
+```bash
+pip install -r requirements.txt
+
+```
+3. **Launch Jupyter Notebook:**
+```bash
+jupyter notebook
+```
+
+## 👩‍💻 Author
+
+This repository is maintained by a deep learning enthusiast eager to share knowledge and foster collaborative learning. 🌟
+
+## 🌐 Contribute
+
+Feel free to fork this repository, contribute to the exercises, and open pull requests for any enhancements or corrections!
+
+## 📜 License
+
+This repository is licensed under the MIT License.
+
+Happy Learning! 🧠✨
