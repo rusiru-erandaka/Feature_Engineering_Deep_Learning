@@ -41,8 +41,8 @@ By exploring this repository, you will:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
-   cd Feature_Engineering
+   git clone https://github.com/rusiru-erandaka/Feature_Engineering_Deep_Learning.git
+   cd Feature_Engineering_Deep_Learning
 ``
 
 2.**Set Up the Environment:**
